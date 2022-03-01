@@ -9,3 +9,9 @@ learning Pythone basic
 learning git  
 
 
+
+## Learning material for Naomi 
+
+
+[Socratica Python course](https://youtu.be/bY6m6_IIN94)
+
